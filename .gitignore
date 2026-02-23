@@ -1,0 +1,9 @@
+estoque.json
+
+.bundle/
+vendor/bundle/
+*.gem
+*.rbc
+
+.vscode/
+.DS_Store
